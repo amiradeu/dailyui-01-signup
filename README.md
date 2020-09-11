@@ -1,4 +1,4 @@
-# DailyUI 01 : Gumroad Sign Up & Sign In Page
+bB# DailyUI 01 : Gumroad Sign Up & Sign In Page
 
 > Redesigning Gumroad's sign up and sign in page as part of the #DailyUI challenge.
 
@@ -14,7 +14,7 @@ I tried to keep the branding behind Gumroad by using their color theme and asset
 
 ## Color Theme
 
-| COLOR  | HEX     | S                                   |
+| COLOR  | HEX     | 🌈                                  |
 | ------ | ------- | ----------------------------------- |
 | Black  | #454545 | ![black](./screenshots/454545.png)  |
 | Grey   | #EDECE6 | ![grey](./screenshots/EDECE6.png)   |
@@ -23,17 +23,18 @@ I tried to keep the branding behind Gumroad by using their color theme and asset
 | Yellow | #FABE00 | ![yellow](./screenshots/FABE00.png) |
 | Salmon | #F27F6D | ![salmon](./screenshots/F27F6D.png) |
 
-## Code
+## Tools
 
+-   Adobe XD
 -   HTML5
 -   CSS3
 
 ## License
 
-[MIT licensce](./LICENSE) © AmiraDeuraseh
+[MIT Licensce](./LICENSE) © AmiraDeuraseh
 Free for personal and commercial use. Just credit me where its due.
 
 ## Links
 
-[Twitter](https://twitter.com/amiradeu)
+[Twitter](https://twitter.com/amiradeu) </br>
 [My Gumroad](http://amirajo.gumroad.com/)
