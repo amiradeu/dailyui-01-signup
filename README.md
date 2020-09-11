@@ -4,7 +4,7 @@
 
 ![sign-up](./screenshots/mockup-signup-readme.png)
 
-# Background
+## Background
 
 I am a quite a fan of Gumroad as a business platform. But honestly, their UI/UX kind of suck (please don't sue me). As my first submission to the #DailyUI challenge, I decided to start with re-designing their sign up and sign in page ❤️
 
@@ -12,16 +12,16 @@ I tried to keep the branding behind Gumroad by using their color theme and asset
 
 ![sign-in](./screenshots/mockup-signin-readme.png)
 
-### Color Theme
+## Color Theme
 
-| Color | HEX     |
-| ----- | ------- |
-|       | #454545 |
-|       | #EDECE6 |
-|       | #C04355 |
-|       | #36A9AE |
-|       | #FABE00 |
-|       | #F27F6D |
+| COLOR  | HEX     | S                                   |
+| ------ | ------- | ----------------------------------- |
+| Black  | #454545 | ![black](./screenshots/454545.png)  |
+| Grey   | #EDECE6 | ![grey](./screenshots/EDECE6.png)   |
+| Red    | #C04355 | ![red](./screenshots/C04355.png)    |
+| Blue   | #36A9AE | ![blue](./screenshots/36A9AE.png)   |
+| Yellow | #FABE00 | ![yellow](./screenshots/FABE00.png) |
+| Salmon | #F27F6D | ![salmon](./screenshots/F27F6D.png) |
 
 ## Code
 
@@ -30,8 +30,10 @@ I tried to keep the branding behind Gumroad by using their color theme and asset
 
 ## License
 
-MIT licensce. Free for personal and commercial use. Just credit me where its due.
+[MIT licensce](./LICENSE) © AmiraDeuraseh
+Free for personal and commercial use. Just credit me where its due.
 
 ## Links
 
-[Twitter](https://twitter.com/amiradeu) [My Gumroad Shop](http://amirajo.gumroad.com/)
+[Twitter](https://twitter.com/amiradeu)
+[My Gumroad](http://amirajo.gumroad.com/)
