@@ -1,4 +1,4 @@
-bB# DailyUI 01 : Gumroad Sign Up & Sign In Page
+# DailyUI 01 : Gumroad Sign Up & Sign In Page
 
 > Redesigning Gumroad's sign up and sign in page as part of the #DailyUI challenge.
 
