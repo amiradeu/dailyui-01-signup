@@ -1,4 +1,4 @@
-# DailyUI 01 : Gumroad Sign Up & Sign In Page
+b# DailyUI 01 : Gumroad Sign Up & Sign In Page
 
 > Redesigning Gumroad's sign up and sign in page as part of the #DailyUI challenge.
 
@@ -31,7 +31,7 @@ I tried to keep the branding behind Gumroad by using their color theme and asset
 
 ## License
 
-[MIT Licensce](./LICENSE) © AmiraDeuraseh
+[MIT Licensce](./LICENSE) © AmiraDeuraseh </br>
 Free for personal and commercial use. Just credit me where its due.
 
 ## Links
